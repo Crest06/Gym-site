@@ -1,16 +1,15 @@
-# React + Vite
+**MY GYM SITE**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Duolingo inspired website meant to make your fitness goals fun and make you more proactive.
 
-Currently, two official plugins are available:
+**How it's made**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech used: HTML, CSS, Javascript, ReactJS
 
-## React Compiler
+The idea was to create a website/web app that combined fun with fitness. I also wanted a catchy name that would stick with the user so I opted to call it 'Fitnest'. Then I created different sections based on how long the user has been involved in fitness ranging from 'Novice' to 'Advanced'. I opted for a darker theme however it could always be changed through a light/dark mode toggle. I also included levels, reward based systems and hearts similar to Duolingo. I chose to use React JS because of its familarity and the access to its icon library which proved very beneficial to the development of this website.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Lessons Learned**
 
-## Expanding the ESLint configuration
+Although, there were some aspects of the project that couldn't be completed, I gained valuable experience from this. I hindsight I could have used SCSS/SASS for this, but I still gained a lot from it.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Take a look at some of the screenshots of the project below..
